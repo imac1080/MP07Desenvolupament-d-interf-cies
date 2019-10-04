@@ -20,7 +20,7 @@ public class lista extends JFrame {
 	private JTextField textField;
 
 	/**
-	 * Launch the application.
+	 * Launch the application.s
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
